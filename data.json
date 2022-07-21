@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_January.jpg",
+        "title": "30-DAY HEALTHY WEIGHT",
+        "text": "New ways to think about what you eat and how you move",
+        "date": "January 1 - 31"
+    },
+    {
+        "id": 2,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_February.jpg",
+        "title": "HEALTHY HEART",
+        "text": "Simple habit changes to keep your ticker in peak condition.",
+        "date": "February 1 - 28"
+    },
+    {
+        "id": 3,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_June.jpg",
+        "title": "MANAGE STRESS MINDFULLY",
+        "text": "Mindfulness practice to help you deal with all life's demands",
+        "date": "March 1 - 31"
+    },
+    {
+        "id": 4,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2022/01/Calendar_Spring.jpg",
+        "title": "SPRING INTO SHAPE",
+        "text": "Spring clean your fitness routine, become an exerciser for life",
+        "date": "April 1 - 14"
+    },
+    {
+        "id": 5,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_FitCity1.jpg",
+        "title": "SPRING FIT CITY CHALLENGE",
+        "text": "Fitness tracking, leaderboards and friendly competition",
+        "date": "April 15 - May 31"
+    },
+    {
+        "id": 6,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_March.jpg",
+        "title": "FIT & HEALTHY LEADERSHIP",
+        "text": "Learn about goal-setting, tools for success and leadership",
+        "date": "June 1 - 30"
+    },
+    {
+        "id": 7,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_April.jpg",
+        "title": "HEALTHY SUMMER HABITS",
+        "text": "A little time in nature will benefit you in big ways.",
+        "date": "July 1 - 31"
+    },
+    {
+        "id": 8,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_July.jpg",
+        "title": "ACHIEVING FINANCIAL FREEDOM",
+        "text": "Get your finances in shape with healthy budgeting habits",
+        "date": "August 1 - 31"
+    },
+    {
+        "id": 9,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_FitCity2.jpg",
+        "title": "FALL FIT CITY CHALLENGE",
+        "text": "Fitness tracking, leaderboards and friendly competition",
+        "date": "September 1 - October 15"
+    },
+    {
+        "id": 10,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_October.jpg",
+        "title": "SLIP INTO SLUMBER",
+        "text": "Better sleep habits, relaxation techniques, and sleep hygiene",
+        "date": "October 16 - 31"
+    },
+    {
+        "id": 11,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_November.jpg",
+        "title": "HEALTHY HOLIDAYS & HELPING HANDS",
+        "text": "Set realistic goals while having an impact on those around you. ",
+        "date": "November 1 - 30"
+    },
+    {
+        "id": 12,
+        "img": "https://secureservercdn.net/45.40.145.201/79x.0e9.myftpupload.com/wp-content/uploads/2020/12/Calendar_August.jpg",
+        "title": "CREATE A POSITIVE MINDSET",
+        "text": "Learn the importance of gratitude and positive thinking",
+        "date": "December 1 - 31"
+    }
+]
